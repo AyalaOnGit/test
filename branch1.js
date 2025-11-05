@@ -5,5 +5,5 @@ const branch1 = () => {
 }
 
 const branch11 = () => {
-alert("change from branch1 thal will not cause a conflict")
+alert("change from branch1 that will not cause a conflict ")
 }
