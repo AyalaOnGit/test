@@ -15,3 +15,5 @@ const branch11 = () => {
 
 alert("add line that will do a conflict")
 alert("conflict???❌✖️")
+
+console.log("my_1_name")
